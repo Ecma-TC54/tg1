@@ -2,7 +2,7 @@
 
 
 
-<scope, POW, Objectives are taken from https://ecma-international.org/task-groups/tc54-tg1 >
+<!-- scope, POW, Objectives are taken from https://ecma-international.org/task-groups/tc54-tg1 -->
 
 ## Scope
 
