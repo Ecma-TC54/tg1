@@ -1,4 +1,4 @@
-# Software and system transparency - Transparency exchange API (TC54-TG1)
+# Software and system transparency - Transparency Exchange API (TC54-TG1)
 
 
 
